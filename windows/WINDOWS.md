@@ -3,7 +3,7 @@
 ## Version: 0.7.0
 
 ### Download
-[Download Windows Build](#) <!-- Replace # with your .exe artifact link -->
+[Download Windows Build](tacivio-windows.exe)
 
 ### How to Run
 1. Download the `.exe` file.
