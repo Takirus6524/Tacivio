@@ -3,7 +3,7 @@
 ## Version: 0.7.0
 
 ### Download
-[Download Linux Build](tacivio-linux) <!-- Replace # with your AppImage or binary link -->
+[Download Linux Build](tacivio-linux)
 
 ### How to Run
 1. Download the file (AppImage or binary).
