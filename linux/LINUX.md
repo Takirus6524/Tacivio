@@ -9,4 +9,4 @@
 1. Download the file (AppImage or binary).
 2. Make it executable:
    ```bash
-   chmod +x tacivio-desktop
+   chmod +x tacivio-linux
