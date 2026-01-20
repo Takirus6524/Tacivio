@@ -3,7 +3,7 @@
 ## Version: 0.7.0
 
 ### Download
-[Download Android APK](tacivio.apk) <!-- Replace # with your .apk artifact link -->
+[Download Android APK](tacivio.apk)
 
 ### How to Install
 1. Download the `.apk` file to your phone.
