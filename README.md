@@ -16,9 +16,9 @@ It is **not a social media platform**, a management tool, or a productivity app.
 ## Platforms
 
 - Android (first release)
-- iOS (planned)
-- Desktop (planned)
-- Web (planned)
+- iOS (fourth release)
+- Desktop (third release)
+- Web (second release)
 
 ---
 
@@ -47,15 +47,18 @@ It is **not a social media platform**, a management tool, or a productivity app.
 
 **v0.5.0**  
 
-- Android support  
+- [Android support](android/tacivio.apk)
 
 **v0.6.0**  
 
-- Web versions  
+- [Web versions](https://www.tacivio.me/)
 
 **v0.7.0**  
 
 - Desktop
+- [Windows](windows/tacivio-windows.exe)
+- [MacOS](macos/tacivio-macos.app)
+- [Linux](linux/tacivio-linux)
 
 ---
 
@@ -63,7 +66,7 @@ It is **not a social media platform**, a management tool, or a productivity app.
 
 **v0.8.0**  
 
-- X
+- X (Future will decide)
 
 **v0.9.0**  
 
