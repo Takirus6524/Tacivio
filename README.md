@@ -57,7 +57,6 @@ It is **not a social media platform**, a management tool, or a productivity app.
 
 - Desktop
 - [Windows](windows/tacivio-windows.exe)
-- [MacOS](macos/tacivio-macos.app)
 - [Linux](linux/tacivio-linux)
 
 ---
@@ -66,7 +65,7 @@ It is **not a social media platform**, a management tool, or a productivity app.
 
 **v0.8.0**  
 
-- X (Future will decide)
+- [MacOS](macos/tacivio-macos.app)
 
 **v0.9.0**  
 
