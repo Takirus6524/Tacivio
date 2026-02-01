@@ -1,16 +1,19 @@
 # Tacivio - Android
 
-## Version: 0.7.0
+## Version: 0.8.0
 
 ### Download
+
 [Download Android APK](tacivio.apk)
 
 ### How to Install
+
 1. Download the `.apk` file to your phone.
 2. Allow installation from unknown sources in settings.
 3. Tap the APK to install.
 
 ### Notes
+
 - Icon is included.
-- Tested on Android 12/13.
+- Tested on Android 10-15.
 - Auto-update not enabled yet.
