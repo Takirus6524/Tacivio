@@ -59,17 +59,20 @@ It is **not a social media platform**, a management tool, or a productivity app.
 - [Windows](windows/tacivio-windows.exe)
 - [Linux](linux/tacivio-linux)
 
+**v0.8.0**  
+
+- Working delete account
+- Working reset password
+- Working confirm email
+
 ---
 
 ## Roadmap
 
-**v0.8.0**  
-
-- [MacOS](macos/tacivio-macos.app)
-
 **v0.9.0**  
 
 - [IOS support](ios/tacivio.ipa)
+- [MacOS](macos/tacivio-macos.app)
 
 **v1.0.0**  
 
@@ -81,8 +84,9 @@ It is **not a social media platform**, a management tool, or a productivity app.
 
 **vX.X.0**  
 
-- Working delete account
 - Ability to share posts outside the app  
+- Notifications
+- Web & Desktop have user still be logged in
 
 ---
 
