@@ -3,7 +3,7 @@
 ## Version: 0.7.0
 
 ### Download
-[Download macOS Build](#) <!-- Replace # with your .app or .dmg link -->
+[Download macOS Build](tacivio-macos.app) <!-- Replace # with your .app or .dmg link -->
 
 ### How to Run
 1. Download the `.app` file or `.dmg`.
@@ -14,3 +14,4 @@
 - Icon is included.
 - Auto-update not enabled yet.
 - Tested on macOS Ventura.
+- macOS version is unavalible at the moment.
